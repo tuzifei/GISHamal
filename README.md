@@ -31,11 +31,10 @@
 
 ### 理论知识
 
-| 序号 | 资源地址 | 相关描述 |
-| ---- | -------- | -------- |
-| 1    |          |          |
-| 2    |          |          |
-| 3    |          |          |
+| 序号 | 资源地址                                          | 相关描述                                                     |
+| ---- | ------------------------------------------------- | ------------------------------------------------------------ |
+| 1    | [麻辣GIS](https://malagis.com/category/com-post/) | 该网站整理GIS学习的相关内容，包括视频、书籍、手册、理论、数据、软件等相关内容。 |
+| 2    | [GIS学院](http://edu.supermap.com/#/fzjclist)     | 超图软件创建的GIS学院，包含GIS大赛、网络课程和GIS相关辅助资料等。 |
 
 ⬆ [回到目录](#文档目录)
 
@@ -45,21 +44,21 @@
 
 | 序号 | 资源地址                                                     | 相关描述                                                     |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | [SuperMap](https://www.supermap.com/cn/)                     | 超图下设基础软件、应用软件、数据智能三大 GIS 业务线 ，并坚持构建生态伙伴体系，通过1000余家生态伙伴为数十个行业的政府和企事业单位信息化全面赋能。 |
-| 2    | [ArcGIS](https://www.arcgis.com/index.html)                  |                                                              |
+| 1    | [SuperMap](https://www.supermap.com/cn/)                     | 北京超图软件股份有限公司是全球第三大、亚洲最大的地理信息系统（GIS）软件厂商，主要从事地理信息系统相关软件技术研发与应用服务，产品和主要分为基础软件、应用软件、数据智能三大 GIS 业务线 。 |
+| 2    | [ArcGIS](https://www.arcgis.com/index.html)                  | 用于对地理空间数据显示、制图、处理、分析，核心产品主要有ArcGIS Pro, ArcMap, ArcCatalog, and ArcGIS Online。 |
 | 3    | [QGIS](http://qgis.org/en/site/)                             | 一个免费的开源桌面 GIS 软件,它提供数据的显示、编辑和分析功能。 |
-| 4    | [GeoDa](http://geodacenter.github.io/)                       |                                                              |
-| 5    | [gvSIG](http://www.gvsig.com/en)                             |                                                              |
-| 6    | [GRASS GIS](https://grass.osgeo.org/)                        |                                                              |
-| 7    | [MapWindow GIS](http://www.mapwindow.org/)                   |                                                              |
-| 8    | [MapInfo](http://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) |                                                              |
-| 9    | [uDig](http://udig.refractions.net/)                         |                                                              |
-| 10   | [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) |                                                              |
-| 11   | [SharpMap](https://github.com/SharpMap/SharpMap)             |                                                              |
-| 12   | [SAGA](http://www.saga-gis.org/en/index.html)                |                                                              |
-| 13   | [FME Desktop](https://www.safe.com/fme/fme-desktop/)         |                                                              |
-| 14   | [OpenJUMP](http://openjump.org/)                             |                                                              |
-| 15   | [AutoCAD Map 3D](http://www.autodesk.com.br/products/autocad-map-3d/overview) |                                                              |
+| 4    | [GeoDa](http://geodacenter.github.io/)                       | 一个免费的开源软件工具，可作为空间数据分析的入门。           |
+| 5    | [gvSIG](http://www.gvsig.com/en)                             | 功能强大，用户友好且可互操作的GIS软件。                      |
+| 6    | [GRASS GIS](https://grass.osgeo.org/)                        | 一个免费的开源GIS软件套件，用于地理空间数据管理和分析，图像处理，图形和地图制作，空间建模和可视化。 |
+| 7    | [MapWindow GIS](http://www.mapwindow.org/)                   | 免费和开源的桌面地理信息系统。                               |
+| 8    | [MapInfo](http://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) | 商用GIS软件。                                                |
+| 9    | [uDig](http://udig.refractions.net/)                         | 一个用户数据显示、编辑、查看的桌面GIS软件。                  |
+| 10   | [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) | 一个易于使用，功能强大且价格合理的GIS应用程序，将多种空间数据处理工具结合在一起，可以访问无与伦比的各种数据格式。 |
+| 11   | [SharpMap](https://github.com/SharpMap/SharpMap)             | 一个易于使用的地图开发库，可用于WEB和桌面开发。              |
+| 12   | [SAGA](http://www.saga-gis.org/en/index.html)                | 用于自动化地球科学分析的开源系统。                           |
+| 13   | [FME Desktop](https://www.safe.com/fme/fme-desktop/)         | FME是用于数据转换和数据转换的Spatial ETL工具的集成集合。     |
+| 14   | [OpenJUMP](http://openjump.org/)                             | 开源的Java GIS。                                             |
+| 15   | [AutoCAD Map 3D](http://www.autodesk.com.br/products/autocad-map-3d/overview) | GIS与AutoCAD集成的软件平台。                                 |
 
 ⬆ [回到目录](#文档目录)
 
@@ -67,12 +66,12 @@
 
 ### 地图数据
 
-| 序号 | 资源地址 | 相关描述 |
-| ---- | -------- | -------- |
-| 1    |          |          |
-| 2    |          |          |
-| 3    |          |          |
-| 4    |          |          |
+| 序号 | 资源地址                                                     | 相关描述                                                     |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | [地理空间数据云](http://www.gscloud.cn/)                     | 以中国科学院及国家的科学研究为主要需求，逐渐引进当今国际上不同领域内的国际数据资源，并对其进行加工、整理、集成，最终实现数据的集中式公开服务、在线计算等。 |
+| 2    | [OpenStreetMap](http://download.geofabrik.de/)               | 免费开源的地图数据下载。                                     |
+| 3    | [DIVA-GIS](http://swww.diva-gis.org/Data)                    | DIVA-GIS是一款GIS软件，同时也提供全球任何国家的界限数据下载。 |
+| 4    | [谷歌地球](http://www.google.cn/intl/zh-CN_ALL/earth/versions/) | 可免费获取到比较新的影像数据。                               |
 
 ⬆ [回到目录](#文档目录)
 
