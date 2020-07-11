@@ -72,6 +72,7 @@
 | 2    | [OpenStreetMap](http://download.geofabrik.de/)               | 免费开源的地图数据下载。                                     |
 | 3    | [DIVA-GIS](http://swww.diva-gis.org/Data)                    | DIVA-GIS是一款GIS软件，同时也提供全球任何国家的界限数据下载。 |
 | 4    | [谷歌地球](http://www.google.cn/intl/zh-CN_ALL/earth/versions/) | 可免费获取到比较新的影像数据。                               |
+| 5    | [天地图](https://www.tianditu.gov.cn/)                       | “天地图”是国家测绘地理信息局建设的地理信息综合服务网站。     |
 
 ⬆ [回到目录](#文档目录)
 
