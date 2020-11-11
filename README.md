@@ -25,7 +25,9 @@
 
 * ##### [10、矢量切片](#矢量切片)
 
-* ##### [11、问题锦囊](#问题锦囊)
+* ##### [11、WEBGL 相关](#WEBGL 相关)
+
+* ##### [12、问题锦囊](#问题锦囊)
 
 
 
@@ -173,7 +175,7 @@
 | 9    | [MapVGL](http://lbsyun.baidu.com/solutions/mapvdata)         | 一款基于WebGL的地理信息可视化库，可以用来展示大量基于3D的地理信息点线面数据。设计初衷主要是为了解决大数据量的三维地理数据展示问题及一些炫酷的三维效果。 |
 | 10   | [Loca](https://lbs.amap.com/api/loca-api/prod_intro)         | 一个基于高德 JS API 地图、纯 JavaScript 实现的地理空间数据可视化渲染引擎。 |
 | 11   | [JavaScript API GL](https://lbs.qq.com/webApi/javascriptGL/glGuide/glOverview) | 位置数据可视化API（Web），是基于腾讯位置服务JavaScript API GL实现的专业地理空间数据可视化渲染引擎。 |
-| 12   | [regl](https://github.com/regl-project/regl) | regl是一个快速构建WebGL应用的框架。 |
+
 
 ⬆ [回到目录](#文档目录)
 
@@ -190,6 +192,16 @@
 
 ⬆ [回到目录](#文档目录)
 
+
+### WEBGL 相关
+
+| 序号 | 资源地址 | 相关描述 |
+| ---- | -------- | -------- |
+| 1   | [regl](https://github.com/regl-project/regl) | regl是一个快速构建WebGL应用的框架。 |
+| 2   | [twgl](https://github.com/greggman/twgl.js) | twgl.js 是一个使 WebGL API 更佳简洁的库。（WebGL 是一种 3D 绘图标准）。 |
+| 3   | [zen-3d](https://github.com/shawn0326/zen-3d) | JavaScript 3D library. The aim of the project is to create an easy to use, lightweight, 3D/2D library. The library only provides WebGL renderers. |
+
+⬆ [回到目录](#文档目录)
 
 
 ### 问题锦囊
